@@ -128,12 +128,9 @@ By handling initial patient queries and data collection, the LLM reduces time sp
 
 ---
 
-## About the Developers
+## About the Developer
 
-**Group 11 - SEM Project**  
-- **Rohit Singhee**
 - **Kuldeep Chaudhary**
-- **Shreedhar Soni**
-- **Anmol Sharma**
+ 
 
 J-Doc is the result of collaborative development by passionate individuals aiming to make healthcare accessible, efficient, and innovative.
